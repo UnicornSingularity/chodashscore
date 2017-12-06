@@ -1,0 +1,23 @@
+{
+  "name": "chodashscore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UnicornSingularity/chodashscore.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UnicornSingularity/chodashscore/issues"
+  },
+  "homepage": "https://github.com/UnicornSingularity/chodashscore#readme",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "underscore": "^1.8.3"
+  }
+}
